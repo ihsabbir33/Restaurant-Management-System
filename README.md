@@ -1,6 +1,7 @@
-# Create and open README.md
-cat > README.md << 'EOF'
+
 # 🍽️ Restaurant Management System
+
+Author: Sabbir Ahmed 
 
 A complete solution for managing menus, orders, and users in a restaurant environment.
 
