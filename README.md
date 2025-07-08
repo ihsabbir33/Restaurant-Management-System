@@ -15,3 +15,21 @@ A complete solution for managing menus, orders, and users in a restaurant enviro
 git clone https://github.com/ihsabbir33/Restaurant-Management-System.git
 cd Restaurant-Management-System
 python main.py
+📂 File Structure
+src/
+├── menu.json       - Restaurant menu database
+├── orders.json     - Order records
+├── users.json      - User accounts
+└── main.py         - Main application logic
+
+🤝 Contributing
+Fork the project
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit changes (git commit -m 'Add amazing feature')
+
+Push to branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
